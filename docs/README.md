@@ -191,4 +191,4 @@ In order to manually remove entries from the Redis store do the following steps:
 
 ### Supported Page Types
 
-[See this document to see the list of supported pagtypes on link graph](docs/SUPPORTED_PAGE_TYPES.md).
+[See this document to see the list of supported pagtypes on link graph](SUPPORTED_PAGE_TYPES.md).
